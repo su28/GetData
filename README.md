@@ -1,2 +1,1 @@
-GetData
-=======
+This file is the readme file for the Get and Clean Data Project on Coursera. The run_analysis is attached in this repo, which analyze the dataset given for the project. The output includes tests and trains using activity lables for activities. The data is as well clean up. 
